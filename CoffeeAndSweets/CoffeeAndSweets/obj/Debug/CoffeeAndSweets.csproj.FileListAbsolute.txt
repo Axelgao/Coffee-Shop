@@ -1,0 +1,10 @@
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\bin\Debug\CoffeeAndSweets.exe.config
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\bin\Debug\CoffeeAndSweets.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\bin\Debug\CoffeeAndSweets.pdb
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.csprojResolveAssemblyReference.cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.Properties.Resources.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.Shop.resources
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.csproj.GenerateResource.Cache
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.exe
+c:\users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.pdb
+C:\Users\gaosh\onedrive\documents\visual studio 2015\Projects\CoffeeAndSweets\CoffeeAndSweets\obj\Debug\CoffeeAndSweets.Replenishment.resources
