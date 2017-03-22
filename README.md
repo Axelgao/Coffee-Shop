@@ -1,2 +1,2 @@
 # Coffee-Shop
-C# Observer Pattern, Adapter Pattern
+Spare Time Coding Sample: C# Observer Pattern, Adapter Pattern
